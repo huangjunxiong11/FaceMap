@@ -13,7 +13,7 @@ imageio==2.6.1
 imageio-ffmpeg
 ffmpy==0.2.2
 # Revert back to nvidia-ml-py3 when windows/system32 patch is implemented
-git+https://github.com/deepfakes/nvidia-ml-py3.git
+# git+https://github.com/deepfakes/nvidia-ml-py3.git
 #nvidia-ml-py3
 h5py==2.9.0
 Keras==2.2.4
